@@ -41,15 +41,6 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkumutlu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8E8E93&icon_color=FFFFFF" alt="Utku'nun GitHub İstatistikleri" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkumutlu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8E8E93" alt="En Çok Kullanılan Diller" width="48%" />
-</p>
-
----
-
 ### 📬 İletişim
 
 *   **LinkedIn:** [linkedin.com/in/utku-mutlu-devops](https://www.linkedin.com/in/utku-mutlu-devops/)
