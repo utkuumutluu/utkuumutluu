@@ -34,5 +34,5 @@
 ---
 
 ### 📬 Benimle İletişime Geçin
-- **LinkedIn:** [linkedin.com/in/utkumutlu](https://linkedin.com/in/YOUR_LINKEDIN) *(Kendi linkini ekle)*
-- **E-posta:** info@utkulabs.com *(E-posta adresini güncelleyebilirsin)*
+- **LinkedIn:** [linkedin.com/in/utkumutlu](https://www.linkedin.com/in/utku-mutlu-devops/)
+- **E-posta:** contact@utkumutlu.com.tr
