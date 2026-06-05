@@ -22,7 +22,7 @@
 
 *   **Backend & Veritabanı:**  
     [![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-    贯彻[![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+    [![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
     [![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
     [![MS SQL](https://img.shields.io/badge/MS_SQL-000000?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
